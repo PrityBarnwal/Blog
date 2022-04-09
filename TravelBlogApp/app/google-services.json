@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256763838844",
+    "project_id": "travelblogapp-8ac55",
+    "storage_bucket": "travelblogapp-8ac55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256763838844:android:f51174526c41adb07d24f9",
+        "android_client_info": {
+          "package_name": "com.coolapps.travelblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256763838844-flpfbslbsqkph2sc9ohesqsnnelmh3o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiifh84nRnjElz05O2u2IyxfGobfdHJ4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256763838844-flpfbslbsqkph2sc9ohesqsnnelmh3o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
